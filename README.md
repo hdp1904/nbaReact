@@ -1,4 +1,4 @@
-# React NBA
+# NBA React
 
 ![](chrome-capture.gif)
 
